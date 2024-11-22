@@ -34,4 +34,4 @@
 
 
 
-  <<img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/avilagabriella/avilagabriella/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/avilagabriella/avilagabriella/output/github-contribution-grid-snake-dark.svg">
